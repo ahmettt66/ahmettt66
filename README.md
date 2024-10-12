@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- I am a student at Gazi University computer engineering department.
+- 🌱 I’m currently learning C.
+- 
 <!--
 **ahmettt66/ahmettt66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
