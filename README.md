@@ -1,7 +1,7 @@
 ## Hi there 👋
 - I am a student at Gazi University computer engineering department.
-- 🌱 I’m currently learning C.
-- 
+- I’m currently learning C.
+- How to reach me: 24181617024@gazi.edu.tr
 <!--
 **ahmettt66/ahmettt66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
